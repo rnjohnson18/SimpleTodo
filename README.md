@@ -32,11 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app were with learning to work Android Studio: such as using its code snippets, having to adjust JVM/Gradle/SDK things after an update, and circumventing a bug when adding my GitHub account to it.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Ryan Johnson
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
